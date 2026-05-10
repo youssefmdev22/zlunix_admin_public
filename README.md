@@ -121,16 +121,12 @@ Follow these steps to get the project running locally:
 
 ## 📸 Screenshots
 
-<details>
 <summary><b>🖥️ Dashboard & Overview</b></summary>
 
 | Dashboard | Users |
 | :---: | :---: |
 | ![Dashboard](screenshots/dashboard.gif) | ![Users](screenshots/users.png) |
 
-</details>
-
-<details>
 <summary><b>🛠️ Management & Forms</b></summary>
 
 | Add Offerwall | Add Payout |
@@ -141,9 +137,6 @@ Follow these steps to get the project running locally:
 | :---: | :---: |
 | ![Add Payout Option](screenshots/add_payout_option.png) | ![Payout Option](screenshots/payout_option.png) |
 
-</details>
-
-<details>
 <summary><b>📊 Lists & Data</b></summary>
 
 | Payouts | Offerwalls |
@@ -158,9 +151,6 @@ Follow these steps to get the project running locally:
 | :---: | :---: |
 | ![Requests](screenshots/requests.png) | ![Tracker](screenshots/tracker.png) |
 
-</details>
-
-<details>
 <summary><b>👤 User & System</b></summary>
 
 | User Profile | Settings |
@@ -170,8 +160,6 @@ Follow these steps to get the project running locally:
 | Login | Notifications |
 | :---: | :---: |
 | ![Login](screenshots/login.png) | ![Notifications](screenshots/notifications.png) |
-
-</details>
 
 ---
 
