@@ -175,11 +175,11 @@ Follow these steps to get the project running locally:
 
 ---
 
-## 🤝 Social Links
+## 🤝 Contributors
 
--   **GitHub:** [@youssefmdev22](https://github.com/youssefmdev22)
--   **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
--   **Website:** [yourwebsite.com](https://yourwebsite.com)
+- [Youssef Mohamed](https://github.com/youssefmdev22)
+- [Moaz Osama](https://github.com/moazosama1)
+- [Mohamed Hossam El-Bably](https://github.com/Bablu521)
 
 ---
 
