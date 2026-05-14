@@ -166,8 +166,8 @@ Follow these steps to get the project running locally:
 ## 🤝 Contributors
 
 - [Youssef Mohamed](https://github.com/youssefmdev22)
-- [Moaz Osama](https://github.com/moazosama1)
 - [Mohamed Hossam El-Bably](https://github.com/Bablu521)
+- [Moaz Osama](https://github.com/moazosama1)
 
 ---
 
